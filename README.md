@@ -12,6 +12,6 @@ Dan Szabo
 
 ...
 ## Lecture list
-*BT01 Intro, Notes & Assets
-*BT02 Game Design Document (GDD)
-*BT03
+* BT01 Intro, Notes & Assets
+* BT02 Game Design Document (GDD)
+* BT03 Setting Up a GitHub "Repo"
