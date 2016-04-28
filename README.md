@@ -11,3 +11,5 @@ Dan Szabo
 * BT02 Game Design Document (GDD)
 * BT03 Setting Up a GitHub "Repo"
 * BT04 Creating & Deleting Landscapes
+* BT05 Landscape Setup & Scaling
+* BT06 Landscape Detail
