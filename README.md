@@ -13,3 +13,6 @@ Dan Szabo
 * BT04 Creating & Deleting Landscapes
 * BT05 Landscape Setup & Scaling
 * BT06 Landscape Detail
+* BT07 Upgrading Unreal Engin (Skipped)
+* BT08 Using Landscape Layers
+* BT09 Flat Shading Low Poly Landscapes
